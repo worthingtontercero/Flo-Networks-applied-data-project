@@ -1,0 +1,6 @@
+factor,weight
+capex_friction,-0.15
+cloud_adjacency,0.2
+demand,0.3
+enterprise_fit,0.2
+resilience,0.15

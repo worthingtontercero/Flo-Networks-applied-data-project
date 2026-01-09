@@ -1,0 +1,15 @@
+candidate_input,matched,match_method,cbsa_code,cbsa_name
+"San Diego, CA",True,heuristic_city_state,41740.0,"San Diego-Carlsbad-San Marcos, CA"
+"Los Angeles, CA",True,heuristic_city_state,31100.0,"Los Angeles-Long Beach-Santa Ana, CA"
+"Inland Empire, CA",True,special_case_inland_empire,40140.0,"Riverside-San Bernardino-Ontario, CA"
+"Phoenix, AZ",True,heuristic_city_state,38060.0,"Phoenix-Mesa-Glendale, AZ"
+"Tucson, AZ",True,heuristic_city_state,46060.0,"Tucson, AZ"
+"El Paso, TX",True,heuristic_city_state,21340.0,"El Paso, TX"
+"Laredo, TX",True,heuristic_city_state,29700.0,"Laredo, TX"
+"McAllen, TX",True,heuristic_city_state,32580.0,"McAllen-Edinburg-Mission, TX"
+"Brownsville, TX",True,heuristic_city_state,15180.0,"Brownsville-Harlingen, TX"
+"San Antonio, TX",True,heuristic_city_state,41700.0,"San Antonio-New Braunfels, TX"
+"Austin, TX",True,heuristic_city_state,12420.0,"Austin-Round Rock-San Marcos, TX"
+"Dallas-Fort Worth, TX",True,heuristic_city_state,19100.0,"Dallas-Fort Worth-Arlington, TX"
+"Houston, TX",True,heuristic_city_state,26420.0,"Houston-Sugar Land-Baytown, TX"
+"Monterrey, MX",False,no_hit,,
